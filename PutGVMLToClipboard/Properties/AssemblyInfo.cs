@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle( "ExtractGVML" )]
+[assembly: AssemblyTitle( "PutGVMLToClipboard" )]
 [assembly: AssemblyDescription( "" )]
 [assembly: AssemblyConfiguration( "" )]
 [assembly: AssemblyCompany( "" )]
-[assembly: AssemblyProduct( "ExtractGVML" )]
-[assembly: AssemblyCopyright( "Copyright ©  2020" )]
+[assembly: AssemblyProduct( "PutGVMLToClipboard" )]
+[assembly: AssemblyCopyright( "Copyright ©  2021" )]
 [assembly: AssemblyTrademark( "" )]
 [assembly: AssemblyCulture( "" )]
 
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible( false )]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid( "9c63396b-a11a-4c34-b9a6-01c9898608d8" )]
+[assembly: Guid( "8f141b0e-f7eb-4fa0-b901-6a283fd6d388" )]
 
 // Version information for an assembly consists of the following four values:
 //
